@@ -1,6 +1,5 @@
 # Virtual_Assistance_For_Visually_Impaired
 
-This android app made using kotlin is for visually impaired people.
 
 The proposed system is to build a customized application which acts as a voice assistant and can be used to help the visually impaired to access the most important features of their mobile phones. The app consists of four modules. These are:
 
